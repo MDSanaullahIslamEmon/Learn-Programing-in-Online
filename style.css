@@ -28,7 +28,8 @@ body {
 }
 
 .carousel-caption {
-    bottom: 100px;
+
+    bottom: 20%;
 }
 
 .cr-hd {
