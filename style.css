@@ -33,6 +33,10 @@ body {
     height: 200px;
 }
 
+.c-width {
+    width: 565px;
+}
+
 .contact-info a {
     text-decoration: none;
     color: #fff;
