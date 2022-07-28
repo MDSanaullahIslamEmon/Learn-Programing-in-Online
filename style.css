@@ -39,6 +39,7 @@ body {
     font-size: 50px;
 }
 
+
 /*---------------
  midea queary 
 ---------------- */
@@ -79,7 +80,7 @@ body {
 
     .course-img img {
         width: 100%;
-        height: 200px;
+        height: 300px;
         margin-bottom: 25px;
     }
 
@@ -90,5 +91,10 @@ body {
     .fw-semibold {
         font-size: 16px;
 
+    }
+
+    .borderr {
+        border: 2px solid grey;
+        border-radius: 10px;
     }
 }
